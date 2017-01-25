@@ -1,3 +1,8 @@
+First project on Udacity carNd Program 
+
+refernce:
+https://github.com/ypwhs/CarND-LaneLines-P1.git
+
 #**Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
